@@ -1,0 +1,6 @@
+subject_id,age_group,treatment,timepoint_hr,assay_value,qc_flag
+MOCK_001,A,vehicle,0,0.42,pass
+MOCK_001,A,vehicle,24,0.51,pass
+MOCK_002,A,drug,0,0.39,pass
+MOCK_002,A,drug,24,1.87,pass
+MOCK_003,B,drug,0,0.44,fail
